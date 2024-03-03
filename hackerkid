@@ -1,0 +1,7 @@
+name = input("Gib deinen Namen ein: ")
+
+# Erstelle das Namensschild
+namensschild = f"Hello, my name is {name}!"
+
+# Drucke das Namensschild
+print(namensschild)
