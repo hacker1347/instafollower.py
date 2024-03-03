@@ -1,7 +1,0 @@
-name = input("hackerkid: ")
-
-# Erstelle das Namensschild
-namensschild = f"Hello, my name is {name}!"
-
-# Drucke das Namensschild
-print(namensschild)
