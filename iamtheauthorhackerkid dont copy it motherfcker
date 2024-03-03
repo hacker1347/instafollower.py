@@ -1,0 +1,15 @@
+
+name = "hackerkid"
+color_blue = (0, 0, 255)
+color_red = (255, 0, 0)
+
+
+namensschild = f"Hello,author {name}!"
+namensschild_blue = f"\033[94m{namensschild}\033[0m"
+namensschild_red = f"\033[91m{namensschild}\033[0m"
+
+
+print(namensschild_blue)
+
+
+print(namensschild_red)
